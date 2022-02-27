@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Vollkorn&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Vollkorn', serif ;
+	font-family: 18px;
+	background-color: #ECDBBA;
+	margin:0px ;
+}
+
+h1, h2, h3 {
+	font-family: 'DM Serif Display', serif ;
+	font-weight: bold;
+	color: #2D4263;
+}
+
+a {
+	text-decoration: none;
+	margin-right: 20px;
+}
+
+p {
+	color: #191919;
+}
